@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raihan490 A.K.A Raihan
 - 👀 I’m interested in fully learning AI
-- 🌱 I’m currently learning Ollama, Python woth hugging face, Sql, Html,css And Javascript  
+- 🌱 I’m currently learning Ollama, Python with hugging face, Sql, Html,css And Javascript  
 - 😄 Pronouns: Gaming youtuber
   
 
